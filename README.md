@@ -1,19 +1,24 @@
-Kullanılan Teknolojiler
+# 📚 Hafta‑1 Project
 
-    HTML5
-    CSS3
-    GitHub Pages
-📄 Sayfalar
+This repository contains materials and code for **Hafta 1** of the project/task series. It includes foundational exercises, educational content, or practical assignments you created during the first week of your learning or development journey.
 
-    index.html – Ana sayfa: Tanıtım metni, görsel ve hizmet listesi içerir.
-    hakkinda.html – Hakkımızda sayfası: Şirket hakkında bilgi ve tarihsel gelişim.
-    servisler.html – Servisler sayfası: Sunulan hizmetlerin başlık ve açıklamaları.
-    iletisim.html – İletişim sayfası: Adres, telefon, e-posta bilgileri ve bir iletişim formu.
-🎯 Özellikler
+---
 
-    Yatay menü ile sayfalar arası geçiş
-    HTML ve temel CSS kullanılarak oluşturulmuş sade ve anlaşılır tasarım
-    Başlıklar, paragraflar, listeler ve formlar ile yapılandırılmış içerik
-    Erişilebilirlik için görsellere alternatif metin (alt) eklendi
+## 🧪 Technologies & Tools Used
 
-💡 Bu proje eğitim amaçlı hazırlanmıştır.
+- **HTML5** – for structuring content (if applicable)
+- **CSS3** – for basic styling (if used)
+- *(Optional)* **JavaScript** – for interactivity
+- **Git / GitHub** – version control and hosting
+
+---
+
+## 📂 Repository Structure
+
+Hafta‑1/
+│
+├── index.html # (Optional) Main HTML page for Hafta 1
+├── assets/ # (Optional) Images, scripts, or style files
+├── README.md # This file
+└── other files… # e.g. proje‑odev‑dosyasi, code snippets, etc.
+
