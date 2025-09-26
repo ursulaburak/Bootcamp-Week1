@@ -1,4 +1,4 @@
-# Week‑1 Project
+# Week‑1 HTML Project
 
 This repository contains materials and code for **Week-1** of the project/task series. It includes foundational exercises, educational content, or practical assignments you created during the first week of your learning or development journey.
 
@@ -17,7 +17,7 @@ This repository contains materials and code for **Week-1** of the project/task s
 
 Week‑1/
 │
-├── index.html # (Optional) Main HTML page for Hafta 1
+├── index.html # (Optional) Main HTML page for Week 1
 ├── assets/ # (Optional) Images, scripts, or style files
 ├── README.md # This file
 └── other files… # e.g. proje‑odev‑dosyasi, code snippets, etc.
