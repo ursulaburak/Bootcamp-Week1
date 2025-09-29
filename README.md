@@ -18,7 +18,10 @@ This repository contains materials and code for **Week-1** of the project/task s
 Week‑1/
 │
 ├── index.html # (Optional) Main HTML page for Week 1
+|
 ├── assets/ # (Optional) Images, scripts, or style files
+|
 ├── README.md # This file
-└── other files… # e.g. proje‑odev‑dosyasi, code snippets, etc.
+|
+└── other files… # e.g. code snippets, etc.
 
