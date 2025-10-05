@@ -1,6 +1,6 @@
-# Week 2 Project
+# Week 1 Project
 
-This repository contains materials and code for **Week-1** of the project/task series. It includes foundational exercises, educational content, or practical assignments you created during the first week of your learning or development journey.
+This repository contains materials and code for **Patika.dev** of the project/task series. It includes foundational exercises, educational content, or practical assignments you created during the first week of your learning or development journey.
 
 ---
 
