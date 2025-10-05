@@ -1,4 +1,4 @@
-# Week‑1 HTML Project
+# Week 2 Project
 
 This repository contains materials and code for **Week-1** of the project/task series. It includes foundational exercises, educational content, or practical assignments you created during the first week of your learning or development journey.
 
